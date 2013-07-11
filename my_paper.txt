@@ -1,9 +1,9 @@
-Author: Tom Jones, Julie England, John Smith
+Author: Tom Jones, Julie England, John Smith, Miao Chen
 Title: The most awesome paper you have ever read
 
 Abstract:
 
-Introduction:
+Introduction: it's about soco-eco project
 Data Analysis:
 Conclusion: I should get a Nobel prize for this!
 
